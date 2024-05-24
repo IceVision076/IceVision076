@@ -45,5 +45,9 @@
 <br clear="both">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/IceVision076/IceVision076/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 ###
