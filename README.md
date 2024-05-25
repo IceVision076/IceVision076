@@ -43,7 +43,6 @@
 ###
 
 <br clear="both">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/IceVision076/IceVision076/output/snake.svg" alt="Snake animation" />
 
 ###
